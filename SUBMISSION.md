@@ -1,11 +1,4 @@
-# Workforce Management API - Backend Engineer Challenge Submission
 
-## 1. Link to your Public GitHub Repository
-[https://github.com/Himashu-Rana/Workforce-Management-Api](https://github.com/Himashu-Rana/Workforce-Management-Api)
-
-## 2. Link to your Video Demonstration
-(Please ensure the link is publicly accessible)
-[Your Video Link Will Go Here - Upload to YouTube/Google Drive/Loom]
 
 ## Project Summary
 
