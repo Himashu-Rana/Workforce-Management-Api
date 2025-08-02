@@ -1,0 +1,6 @@
+@echo off
+echo Building the application...
+javac -d target/classes src/main/java/com/railse/hiring/workforcemgmt/*.java src/main/java/com/railse/hiring/workforcemgmt/*/*.java src/main/java/com/railse/hiring/workforcemgmt/*/*/*.java
+
+echo Running the application...
+java -cp target/classes com.railse.hiring.workforcemgmt.WorkforcemgmtApplication
